@@ -1,256 +1,117 @@
 WEBVTT
 
 1
-00:00:00.966 --> 00:00:02.800
-The Continuing Presence Of The Past
+00:00:00.000 --> 00:00:03.000
+In this video I willl
 
 2
-00:00:02.933 --> 00:00:05.400
-Jeff Koons' <i>Louis XIV</i>
+00:00:03.000 --> 00:00:06.000
+explain how to build a third-party
 
 3
-00:00:06.433 --> 00:00:08.733
-Jeff Koons <b>rose to
-prominence</b> in the mid-1980s
+00:00:06.000 --> 00:00:09.000
+interactive new window widget,
 
 4
-00:00:08.866 --> 00:00:11.100
-by <sub>creating works
-featuring consumer</sub> goods,
+00:00:09.000 --> 00:00:12.000
+Which is basically a button that will launch a third-party
 
 5
-00:00:11.433 --> 00:00:13.066
-principally <u> vacuum cleaners</u> ,
+00:00:12.000 --> 00:00:15.000
+interactive into a new window or browser tab.
 
 6
-00:00:13.200 --> 00:00:17.166
-<i>encased in acrylic boxes</i>
-(and therefore made unusable)
+00:00:15.000 --> 00:00:18.000
+If you are looking on how to build a
 
 7
-00:00:17.500 --> 00:00:18.833
-as if they were fine art.
+00:00:18.000 --> 00:00:21.000
+widget third-party interactive widget that
 
 8
-00:00:19.500 --> 00:00:20.566
-"When I'm working
-with an object,"
+00:00:21.000 --> 00:00:24.000
+is embedded in an iframe, check out the 3PI
 
 9
-00:00:20.733 --> 00:00:24.266
-Koons said in an interview in the
-<i>Journal of Contemporary Art</i> in 1986,
+00:00:24.000 --> 00:00:27.000
+inline section.
 
 10
-00:00:24.533 --> 00:00:27.533
-the same year that he created
-his sculpture of <i>Louis XIV</i>,
+00:00:27.000 --> 00:00:30.000
+So&#8230; um&#8230; just like any other widget youâre gonna drag it
 
 11
-00:00:28.033 --> 00:00:30.033
-"I always have to give
-the greatest consideration
+00:00:30.000 --> 00:00:33.000
+into your project and name your
 
 12
-00:00:30.166 --> 00:00:32.166
-not to alter
-the object physically
+00:00:33.000 --> 00:00:36.000
+widget&#8230; um&#8230; You are allowed
 
 13
-00:00:32.300 --> 00:00:33.933
-or even psychologically.
+00:00:36.000 --> 00:00:39.000
+to decide what you want the button to say
 
 14
-00:00:34.066 --> 00:00:37.733
-I try to reveal a certain aspect
-of the object's personality.
+00:00:39.000 --> 00:00:42.000
+You can have it say whatever you want it to say.
 
 15
-00:00:38.233 --> 00:00:39.333
-To give you an example:
+00:00:42.000 --> 00:00:45.000
+Iâm just going to say &#8220;View.&#8221;
 
 16
-00:00:39.466 --> 00:00:41.966
-if you place a shy person
-in a large crowd,
+00:00:45.000 --> 00:00:48.000
+And then you get to decide what you want the descriptive
 
 17
-00:00:42.200 --> 00:00:44.700
-his shyness will be
-revealed and enhanced.
+00:00:48.000 --> 00:00:51.000
+text next to the button to say
 
 18
-00:00:45.166 --> 00:00:47.500
-I work with the object
-in a very similar manner.
+00:00:51.000 --> 00:00:54.000
+[typing sounds]&#8230; And then you
 
 19
-00:00:47.933 --> 00:00:50.566
-I'm placing the object
-in a context or material
+00:00:54.000 --> 00:00:57.000
+enter in your URL. Make sure that your URL
 
 20
-00:00:50.733 --> 00:00:54.933
-that will enhance a specific
-personality trait within the object.
+00:00:57.000 --> 00:01:00.000
+is using HTTPS,
 
 21
-00:00:55.566 --> 00:00:58.666
-The soul of the object
-must be maintained."
+00:01:00.000 --> 00:01:03.000
+not HTTPâ¦ um, Save the
 
 22
-00:00:59.733 --> 00:01:01.966
-Koons' sculpture of Louis XIV
+00:01:03.000 --> 00:01:06.000
+link. Youâll see it will tell you that it has saved.
 
 23
-00:01:02.166 --> 00:01:04.366
-effectively uncrates
-for modernity
+00:01:06.000 --> 00:01:09.000
+And then you can go to preview widget to preview your button.
 
 24
-00:01:04.633 --> 00:01:07.100
-the king whom workers
-are putting into storage
+00:01:09.000 --> 00:01:12.000
+And note that this appears to be in
 
 25
-00:01:07.333 --> 00:01:09.866
-in Watteau's
-<i>The Signboard of Gersaint.</i>
+00:01:12.000 --> 00:01:15.000
+an iframe, but that will not be how it looks
 
 26
-00:01:13.166 --> 00:01:15.433
-The hairstyle of
-Louis XIV in Koons' work
+00:01:15.000 --> 00:01:18.000
+once you get into your project. Itâll just be a
 
 27
-00:01:15.666 --> 00:01:17.466
-is the same
-that Hyacinthe Rigaud
+00:01:18.000 --> 00:01:21.000
+button with the text that you have decided upon.
 
 28
-00:01:17.733 --> 00:01:21.100
-captured in his 1701 portrait
-of the king, except that,
+00:01:21.000 --> 00:01:24.000
+And when you click on the button, it will launch
 
 29
-00:01:21.300 --> 00:01:24.566
-in emphasizing its curls,
-the hair on Koon's Louis
-
-30
-00:01:24.800 --> 00:01:29.066
-reflects the S and C
-tendril-like scrolls of the Rococo.
-
-31
-00:01:30.000 --> 00:01:32.600
-"I went back and I embraced
-the Rococo and the Baroque,"
-
-32
-00:01:32.766 --> 00:01:33.633
-Koons has explained,
-
-33
-00:01:33.866 --> 00:01:38.033
-"to show how materialism was used
-in objective art before modernism.
-
-34
-00:01:38.766 --> 00:01:41.533
-And I showed that whomever you
-put in political control of art,
-
-35
-00:01:41.700 --> 00:01:43.733
-it becomes reflective
-of their ego,
-
-36
-00:01:44.133 --> 00:01:45.900
-and eventually
-becomes decorative."
-
-37
-00:01:46.533 --> 00:01:47.800
-It might be said
-of Koons' sculpture,
-
-38
-00:01:47.933 --> 00:01:49.433
-to paraphrase Koons himself,
-
-39
-00:01:49.733 --> 00:01:52.966
-that if you represent an authoritarian
-person in polished metal,
-
-40
-00:01:53.400 --> 00:01:57.033
-his authoritarian character
-will be revealed and enhanced.
-
-41
-00:01:57.700 --> 00:01:59.700
-The material (stainless steel),
-
-42
-00:01:59.966 --> 00:02:04.266
-underscores the king's authoritarian
-personality and his power.
-
-43
-00:02:05.266 --> 00:02:07.400
-But, of course,
-stainless steel is a material
-
-44
-00:02:07.533 --> 00:02:10.000
-that would not be invented
-until the twentieth century.
-
-45
-00:02:10.700 --> 00:02:14.466
-It is a distinctly modern material
-and, in stainless steel,
-
-46
-00:02:14.633 --> 00:02:17.500
-Louis XIV suddenly seems
-to more closely resemble
-
-47
-00:02:17.666 --> 00:02:20.333
-some long-haired
-1970s rock star,
-
-48
-00:02:20.733 --> 00:02:22.900
-such as Led Zeppelin's
-Robert Plant,
-
-49
-00:02:23.033 --> 00:02:24.266
-than the French king.
-
-50
-00:02:24.866 --> 00:02:28.600
-In fact, what Koons' sculpture
-suggests is that power today
-
-51
-00:02:28.800 --> 00:02:32.000
-is as firmly rooted in
-the "image" of the star
-
-52
-00:02:32.233 --> 00:02:35.100
-as it ever was in the seventeenth
-and eighteenth centuries
-
-53
-00:02:35.333 --> 00:02:37.333
-in the image of the king.
-
-
+00:01:24.000 --> 00:00:00.000
+the third-party interactive.

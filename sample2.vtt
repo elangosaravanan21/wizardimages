@@ -1,0 +1,117 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.000
+<i>In this video</i> I willl
+
+2
+00:00:03.000 --> 00:00:06.000
+<b>explain how to build</b> a third-party
+
+3
+00:00:06.000 --> 00:00:09.000
+interactive new window widget,
+
+4
+00:00:09.000 --> 00:00:12.000
+Which is basically a button that will launch a third-party
+
+5
+00:00:12.000 --> 00:00:15.000
+interactive into a new window or browser tab.
+
+6
+00:00:15.000 --> 00:00:18.000
+If you are looking on how to build a
+
+7
+00:00:18.000 --> 00:00:21.000
+widget third-party interactive widget that
+
+8
+00:00:21.000 --> 00:00:24.000
+is embedded in an iframe, check out the 3PI
+
+9
+00:00:24.000 --> 00:00:27.000
+inline section.
+
+10
+00:00:27.000 --> 00:00:30.000
+So&#8230; um&#8230; just like any other widget youâre gonna drag it
+
+11
+00:00:30.000 --> 00:00:33.000
+into your project and name your
+
+12
+00:00:33.000 --> 00:00:36.000
+widget&#8230; um&#8230; You are allowed
+
+13
+00:00:36.000 --> 00:00:39.000
+to decide what you want the button to say
+
+14
+00:00:39.000 --> 00:00:42.000
+You can have it say whatever you want it to say.
+
+15
+00:00:42.000 --> 00:00:45.000
+Iâm just going to say &#8220;View.&#8221;
+
+16
+00:00:45.000 --> 00:00:48.000
+And then you get to decide what you want the descriptive
+
+17
+00:00:48.000 --> 00:00:51.000
+text next to the button to say
+
+18
+00:00:51.000 --> 00:00:54.000
+[typing sounds]&#8230; And then you
+
+19
+00:00:54.000 --> 00:00:57.000
+enter in your URL. Make sure that your URL
+
+20
+00:00:57.000 --> 00:01:00.000
+is using HTTPS,
+
+21
+00:01:00.000 --> 00:01:03.000
+not HTTPâ¦ um, Save the
+
+22
+00:01:03.000 --> 00:01:06.000
+link. Youâll see it will tell you that it has saved.
+
+23
+00:01:06.000 --> 00:01:09.000
+And then you can go to preview widget to preview your button.
+
+24
+00:01:09.000 --> 00:01:12.000
+And note that this appears to be in
+
+25
+00:01:12.000 --> 00:01:15.000
+an iframe, but that will not be how it looks
+
+26
+00:01:15.000 --> 00:01:18.000
+once you get into your project. Itâll just be a
+
+27
+00:01:18.000 --> 00:01:21.000
+button with the text that you have decided upon.
+
+28
+00:01:21.000 --> 00:01:24.000
+And when you click on the button, it will launch
+
+29
+00:01:24.000 --> 00:00:00.000
+the third-party interactive.
